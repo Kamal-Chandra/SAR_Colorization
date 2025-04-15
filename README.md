@@ -3,7 +3,7 @@
 ## Problem Statement ID: 1733
 ## Problem Statement Title: SAR Image Colorization for Comprehensive Insight using Deep Learning Model (h)
 
-## Team Name:
+## Team Name: Void
 
 ### Team Members:
 - **Amrutha Kumar K**
